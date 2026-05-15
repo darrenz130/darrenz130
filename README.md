@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Darren! </h1>
+
+<h2>👨‍💻 Projects:</h2>
+
+  - [Arduino Reaction Time Tester PCB Design](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Elevator FPGA](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2> Certifacations: </h2>
+- <
+
 
 <!--
-**darrenz130/darrenz130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
