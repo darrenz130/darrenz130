@@ -6,7 +6,7 @@
   <li><a href="...">Elevator FPGA</a></li>
 </ul>
 
-<h2>Certifications</h2>
+<h2>📑 Certifications</h2>
 
 <p><b>Altium Designer Basic PCB Design Certificate</b></p>
 
