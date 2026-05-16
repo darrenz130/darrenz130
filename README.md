@@ -8,7 +8,7 @@
 
 <h2>📑 Certifications</h2>
 
-<p><b>Altium Designer Basic PCB Design Certificate</b></p>
+<p><b>Altium Education PCB Basic Design Ceritificate/b></p>
 
 <a href="./documents/altium_certificate.pdf">
   <img src="./images/altium_certificate.png" width="300">
