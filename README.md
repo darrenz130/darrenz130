@@ -1,24 +1,15 @@
-<h1>Hi, I'm Darren! </h1>
+<h1>Hi, I'm Darren!</h1>
 
 <h2>👨‍💻 Projects:</h2>
+<ul>
+  <li><a href="...">Arduino Reaction Time Tester PCB Design</a></li>
+  <li><a href="...">Elevator FPGA</a></li>
+</ul>
 
-  - [Arduino Reaction Time Tester PCB Design](https://github.com/darrenz130/Arduino-Reaction-Time-Tester)
-  - [Elevator FPGA](https://github.com/joshmadakor1/Algorithms-Practice)
-<h2> Certifacations: </h2>
-- <
+<h2>Certifications</h2>
 
+<p><b>Altium Designer Basic PCB Design Certificate</b></p>
 
-<!--
-✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="./docs/altium_certificate.pdf">
+  <img src="./docs/altium_certificate.pdf" width="500" alt="Altium Designer Basic PCB Design Certificate">
+</a>
