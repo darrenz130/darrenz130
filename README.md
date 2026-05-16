@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Arduino Reaction Time Tester PCB Design](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Arduino Reaction Time Tester PCB Design](https://github.com/darrenz130/Arduino-Reaction-Time-Tester)
   - [Elevator FPGA](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2> Certifacations: </h2>
 - <
