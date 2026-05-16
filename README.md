@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 <ul>
   <li><a href="https://github.com/darrenz130/Arduino-Reaction-Time-Tester">Arduino Reaction Time Tester PCB Design</a></li>
-  <li><a href="https://github.com/darrenz130/Elevator-FPGA">Elevator FPGA</a></li>
+  <li><a href="https://github.com/darrenz130/Elevator-FPGA">FPGA Elevator Controller (VHDL)</a></li>
 </ul>
 
 <h2>📑 Certifications</h2>
