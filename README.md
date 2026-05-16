@@ -10,6 +10,6 @@
 
 <p><b>Altium Designer Basic PCB Design Certificate</b></p>
 
-<a href="./docs/altium_certificate.pdf">
-  <img src="./docs/altium_certificate.pdf" width="500" alt="Altium Designer Basic PCB Design Certificate">
+<a href="./documents/altium_certificate.pdf">
+  <img src="./images/altium_certificate.png" width="300">
 </a>
